@@ -1,0 +1,15 @@
+{
+  "name": "faye-gpio",
+  "version": "0.0.1",
+  "description": "A Faye client that can access Raspberry Pi's GPIO pins.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan I. Gesino",
+  "license": "MIT",
+  "dependencies": {
+    "faye": "^1.1.2",
+    "pi-gpio": "0.0.8"
+  }
+}
